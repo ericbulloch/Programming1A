@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# k
-=======
-
->>>>>>> origin/master
+STAY CLASSY SAN-DIEGO
 
 print("Hello, Awesome!")
 YOOOOOOO its me Angel
